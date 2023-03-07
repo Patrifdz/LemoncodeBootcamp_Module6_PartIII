@@ -1,0 +1,24 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(116, 116, 116);
+    margin-top: 40px;
+}
+
+main {
+    align-content:center;
+    margin-left: 150;
+}
+.delivery {
+    margin-left: 15px;
+}
+.button {
+    padding: 10px;
+    margin: 25px;
+}
+.coin {
+    color: brown;
+    list-style-type: none;
+}
